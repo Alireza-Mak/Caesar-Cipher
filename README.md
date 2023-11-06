@@ -4,7 +4,7 @@
 ## 🚀 About Me
 I'm a full stack developer ...
 
-# About the Project: hangman
+# About the Project: Caeasar Cipher
 I've written a Python program that allows you to encode and decode messages using a Caesar Cipher. The program presents a simple text-based interface where you can choose between encoding and decoding, input your message, and specify a shift value. The program validates your input and displays the encoded or decoded message. If you want to use it again, you can choose to run it repeatedly. The program also features a visually appealing logo and creator information in ASCII art.
 
 
